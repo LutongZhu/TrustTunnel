@@ -1,5 +1,7 @@
 # CHANGELOG
 
+## 1.0.16
+
 - [Fix] HTTP/1.1 codec busy loop when receiving partial request headers.
 
 ## 1.0.13
